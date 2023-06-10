@@ -1,4 +1,4 @@
-**`Digital Craftsman (Developer/Art Enthusiast)`**
+**`Web Developer/Art Enthusiast)`**
 
 
 - 👋 Hi there! I'm Joseph Gateru and I have four year of experience as a web developer, and I focus on JavaScript frameworks like ReactJs and NextJs. I'm interested about creating top-notch online applications and using technology to make daily tasks simpler. I enjoy the rush of seeing a project through from conception to deployment.
