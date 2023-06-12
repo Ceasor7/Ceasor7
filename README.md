@@ -5,7 +5,7 @@ I am skilled in using JavaScript frameworks and libraries like ReactJs and NextJ
    ---
 
 ### 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceasor7a&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceasor7&show_icons=true&theme=radical)
 
 
 
