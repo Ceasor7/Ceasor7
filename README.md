@@ -1,19 +1,7 @@
 **`Full Stack Web Developer/Art Enthusiast)`**
 
 As a FullStack Junior Web Developer, I specialize in programming and design content creation using the latest web technologies. I am continually excited to utilize new technologies in order to solve problems in the design, development, and deployment phases of web applications.
-I am skilled in using JavaScript frameworks and libraries like ReactJs and NextJs to create visually appealing user interfaces that are easy for users to navigate. On the backend of web applications, I prefer using NodeJS and ExpressJs to facilitate communication between frontend components and the database.
-
-<p align="left">
-      <a href="https://gateru-portoflio.vercel.app/">
-         <img alt="personal portfolio" title="My Personal portfolio" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-   
+I am skilled in using JavaScript frameworks and libraries like ReactJs and NextJs to create visually appealing user interfaces that are easy for users to navigate. On the backend of web applications, I prefer using NodeJS and ExpressJs to facilitate communication between frontend components and the database.   
    ---
    ### 🧰 Languages and Tools
 
@@ -34,8 +22,12 @@ I am skilled in using JavaScript frameworks and libraries like ReactJs and NextJ
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
 #
+
+### 📊 Stats
+
+![Jose Ceasor GitHub stats](https://github-readme-stats.vercel.app/api?username=Ceasor7_icons=true&theme=gruvbox)
+
 
 
 - 👋 Hi there! I'm Joseph Gateru and I have four year of experience as a web developer, and I focus on JavaScript frameworks like ReactJs and NextJs. I'm interested about creating top-notch online applications and using technology to make daily tasks simpler. I enjoy the rush of seeing a project through from conception to deployment.
