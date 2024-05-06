@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Kimani</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on [Personal portfolio website](https://joseph-gateru-k.vercel.app/)
-
-- 🌱 I’m currently learning **ASP.NET and C#**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ceasor7.vercel.app/](https://portfolio-ceasor7.vercel.app/)
-
-- 💬 Ask me about **React, Next, Tailwindcss, Typescript**
-
-- 📫 How to reach me **josephkgateru7@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-ceasor7.vercel.app/](https://portfolio-ceasor7.vercel.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/josegee19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josegee19" height="30" width="40" /></a>
